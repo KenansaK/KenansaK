@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ahmed Hemeda</h1>
+<h1 align="center">I'm Kenan Sakkijha</h1>
 
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 <br>
@@ -15,7 +15,7 @@
 
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
-    <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
+    <a href="https://www.linkedin.com/in/kenan-sakkijha"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
     </a>&nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O"> <!-- WhatsApp Channel -->
